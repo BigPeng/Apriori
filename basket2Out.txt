@@ -1,0 +1,4 @@
+*********频繁模式挖掘结果***********
+frozenmeal beer -->cannedveg相对支持度：0.146自信度：0.8588235294117647
+cannedveg beer -->frozenmeal相对支持度：0.146自信度：0.874251497005988
+cannedveg frozenmeal -->beer相对支持度：0.146自信度：0.8439306358381503
